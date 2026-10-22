@@ -1,0 +1,1 @@
+vel = 0.8; //Velocidade padrão.

@@ -1,0 +1,1 @@
+vel = 2; //Definindo a velocidade.

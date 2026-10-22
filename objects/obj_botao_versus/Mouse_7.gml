@@ -1,0 +1,1 @@
+room_goto(rm_versus); //Mudando de sala após clicar.

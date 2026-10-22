@@ -1,0 +1,1 @@
+image_index = 1; //Mudando de frame ao passar o mouse por cima.

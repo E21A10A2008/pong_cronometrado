@@ -1,0 +1,1 @@
+draw_text(300,200, "SOLO"); //Escrevendo "SOLO" no botão".

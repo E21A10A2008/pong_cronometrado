@@ -1,0 +1,1 @@
+room_goto(rm_solo); //Mudando de sala após clicar.

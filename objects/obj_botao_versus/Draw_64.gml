@@ -1,0 +1,1 @@
+draw_text(292,264, "VERSUS"); //Escrevendo "VERSUS" no botão".
