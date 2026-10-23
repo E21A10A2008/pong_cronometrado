@@ -1,1 +1,0 @@
-image_index = 0; //Voltando ao normal após tirar o mouse.

@@ -31,7 +31,6 @@
   "resources":[
     {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},},
     {"id":{"name":"obj_botao_solo","path":"objects/obj_botao_solo/obj_botao_solo.yy",},},
-    {"id":{"name":"obj_botao_versus","path":"objects/obj_botao_versus/obj_botao_versus.yy",},},
     {"id":{"name":"obj_colisor","path":"objects/obj_colisor/obj_colisor.yy",},},
     {"id":{"name":"obj_creditos","path":"objects/obj_creditos/obj_creditos.yy",},},
     {"id":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},},
